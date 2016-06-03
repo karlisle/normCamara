@@ -1,0 +1,3 @@
+/home/kharl/Documents/Norm_camera/CMakeFiles/edit_cache.dir
+/home/kharl/Documents/Norm_camera/CMakeFiles/rebuild_cache.dir
+/home/kharl/Documents/Norm_camera/CMakeFiles/DisplayImage.dir
