@@ -11,7 +11,7 @@ greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 TARGET = cosos
 TEMPLATE = app
 
-INCLUDEPATH += /usr/local/include/
+INCLUDEPATH += /usr/include/
 LIBS += -L/usr/lib -lopencv_core -lopencv_imgcodecs -lopencv_highgui -lopencv_imgproc -lopencv_objdetect -lopencv_videoio -lopencv_calib3d
 
 SOURCES += main.cpp\

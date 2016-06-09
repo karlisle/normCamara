@@ -1,4 +1,5 @@
 #include "calibrar.h"
+#include <stdio.h>
 
 
 void Calibrar::menu()
@@ -17,7 +18,7 @@ void Calibrar::menu()
     switch (opcion)
     {
     case 1:
-        this->video(1);
+        this->video(0);
         break;
     default:
         exit(0);
